@@ -134,7 +134,6 @@ GameObject:
   - component: {fileID: 272689081}
   - component: {fileID: 272689080}
   m_Layer: 0
-  m_Name: astronaut
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -222,11 +221,9 @@ Transform:
   m_GameObject: {fileID: 272689079}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 128, y: 258, z: 0}
   m_LocalScale: {x: 74.07806, y: 67.91878, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -400,7 +397,6 @@ GameObject:
   - component: {fileID: 839745377}
   - component: {fileID: 839745376}
   m_Layer: 0
-  m_Name: background_Animation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -488,11 +484,9 @@ Transform:
   m_GameObject: {fileID: 839745375}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 124.0615, y: 219.5692, z: 0}
   m_LocalScale: {x: 34.233795, y: 34.131874, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1481636444
 GameObject:
@@ -602,5 +596,4 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 1481636448}
   - {fileID: 526156902}
-  - {fileID: 272689082}
-  - {fileID: 839745378}
+  - {fileID: 1536638228}
