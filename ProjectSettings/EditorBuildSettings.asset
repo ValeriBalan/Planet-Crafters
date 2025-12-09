@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Boot_scene.unity
+    guid: 408a6c4f7540890499f514152c1a0f68
+  - enabled: 1
     path: Assets/Scenes/Loading_Scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Registration_Menu_Scene.unity
+    guid: f3c5899efee65d649a53404f14789ecc
+  - enabled: 1
+    path: Assets/Scenes/SignUp_Scene.unity
+    guid: 882a680567b4b6648bf386eed6a95079
+  - enabled: 1
+    path: Assets/Scenes/SignIn_Scene.unity
+    guid: d259b8e4c2e89de4fa74360cc4766420
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4fab31afcdb024a4fb694a0d87179bb1, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 8fdc4539bc314224eb2992c03cd02b9b, type: 2}
