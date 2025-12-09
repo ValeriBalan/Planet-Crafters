@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\astronautanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\astronautanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\controller\\loadingscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\loadingscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\loadingbaranimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadingbaranimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\managers\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\backgroundanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\AstronautAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AstronautAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\LoadingBarAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LoadingBarAnimations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\BackgroundAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BackgroundAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadingSceneController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Controller\\LoadingSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\LoadingSceneController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Controller\\LoadingSceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\LoadingSceneController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:22:45.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Managers\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Managers\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SceneLoader.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T14:35:08.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LoadingBarAnimations.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\LoadingBarAnimations.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingBarAnimations.cs",
@@ -34,25 +68,22 @@
               "RelativeToolTip": "Assets\\Scripts\\LoadingBarAnimations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T11:53:20.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T11:53:20.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AstronautAnimation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\AstronautAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AstronautAnimation.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\AstronautAnimation.cs",
               "RelativeToolTip": "Assets\\Scripts\\AstronautAnimation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T11:25:36.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-07T11:25:36.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BackgroundAnimation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\BackgroundAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundAnimation.cs",

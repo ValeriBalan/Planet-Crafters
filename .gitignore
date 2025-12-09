@@ -2,3 +2,12 @@
 /Library
 /UserSettings
 /Temp
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/Planet-Crafters/FileContentIndex/03962b29-68b0-4b9b-be6f-149bcce8e16f.vsidx
+.vs/Planet-Crafters/FileContentIndex/276c2623-639e-4c17-8cec-3f56c5c7b0e5.vsidx
+.vs/Planet-Crafters/FileContentIndex/dcb06bcf-159d-420b-8432-eec905ad41c3.vsidx
