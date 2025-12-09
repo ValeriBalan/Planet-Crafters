@@ -2,3 +2,9 @@
 /Library
 /UserSettings
 /Temp
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
