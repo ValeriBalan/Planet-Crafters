@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\ui\\authscenebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\authscenebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\planets\\planetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\controller\\loadingscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthSceneButton.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\UI\\AuthSceneButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\AuthSceneButton.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\UI\\AuthSceneButton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\AuthSceneButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Title": "PlanetData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetData.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T05:06:47.167Z",
+              "WhenOpened": "2025-12-14T11:19:18.717Z",
               "EditorCaption": ""
             },
             {
