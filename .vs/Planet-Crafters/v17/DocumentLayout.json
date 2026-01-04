@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\planets\\planetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\controller\\levelmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller\\levelmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\planets\\levelnodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\levelnodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\ui\\levelbadgeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\levelbadgeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\planets\\planetlevelmapconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetlevelmapconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\planets\\planetvisuallibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetvisuallibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\core\\levelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\levelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\core\\hexgridmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\hexgridmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\core\\hexcoord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\hexcoord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\core\\sessions\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\sessions\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\core\\sessions\\planetsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\sessions\\planetsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\core\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\planets\\planetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\planets\\planetautorotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetautorotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\planets\\planetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\planet-crafters\\assets\\scripts\\planets\\planetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\planets\\planetclicktoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetclicktoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\planets\\planetautorotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planets\\planetautorotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B202D6-01E7-1208-7CFB-7E61C301D66F}|Assembly-CSharp.csproj|C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\assets\\scripts\\controller\\loadingscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,62 +90,205 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlanetSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetSpawner.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T12:24:42.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PlanetAutoRotate.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetAutoRotate.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetAutoRotate.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetAutoRotate.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetAutoRotate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LevelNodeView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\LevelNodeView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\LevelNodeView.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\LevelNodeView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planets\\LevelNodeView.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwEoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T18:29:00.399Z",
+              "WhenOpened": "2026-01-03T15:40:05.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlanetData.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetData.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PlanetVisualLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetVisualLibrary.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetVisualLibrary.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetVisualLibrary.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetVisualLibrary.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T11:19:18.717Z",
+              "WhenOpened": "2026-01-03T15:37:15.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelState.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\LevelState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\LevelState.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\LevelState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\LevelState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:35:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HexGridMath.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\HexGridMath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\HexGridMath.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\HexGridMath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\HexGridMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:34:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HexCoord.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\HexCoord.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\HexCoord.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\HexCoord.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\HexCoord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:33:37.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelMapController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Controller\\LevelMapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\LevelMapController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Controller\\LevelMapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller\\LevelMapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:56:54.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PlanetLevelMapConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetLevelMapConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetLevelMapConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetLevelMapConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetLevelMapConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:38:13.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelBadgeView.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\UI\\LevelBadgeView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LevelBadgeView.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\UI\\LevelBadgeView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LevelBadgeView.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:39:26.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\Sessions\\GameSession.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Sessions\\GameSession.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\Sessions\\GameSession.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Sessions\\GameSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:32:33.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\SceneLoader.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:56:00.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlanetSession.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\Sessions\\PlanetSession.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Sessions\\PlanetSession.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Core\\Sessions\\PlanetSession.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Sessions\\PlanetSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:51:02.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlanetClickToScene.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetClickToScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetClickToScene.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetClickToScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetClickToScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:34:56.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlanetSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetSpawner.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:24:42.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlanetAutoRotate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetAutoRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetAutoRotate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetAutoRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetAutoRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:29:00.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlanetData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Planets\\PlanetData.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Planets\\PlanetData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Planets\\PlanetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:19:18.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "LoadingSceneController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Controller\\LoadingSceneController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controller\\LoadingSceneController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Controller\\LoadingSceneController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controller\\LoadingSceneController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T15:22:45.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\Managers\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SceneLoader.cs",
@@ -109,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "LoadingBarAnimations.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\LoadingBarAnimations.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingBarAnimations.cs",
@@ -121,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "AstronautAnimation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\AstronautAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AstronautAnimation.cs",
@@ -132,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "BackgroundAnimation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\val\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8 \u05D2\u05DE\u05E8\\Planet-Crafters\\Assets\\Scripts\\BackgroundAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundAnimation.cs",

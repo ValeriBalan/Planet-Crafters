@@ -75,23 +75,23 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 86ab0f82799d03f4688b215311213a06, type: 3}
       insertIndex: -1
-      addedObject: {fileID: -7184462403230117176}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 86ab0f82799d03f4688b215311213a06, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 3884535332674583590}
+    - targetCorrespondingSourceObject: {fileID: -3215555783603854218, guid: 86ab0f82799d03f4688b215311213a06, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7454718040731167703}
   m_SourcePrefab: {fileID: 100100000, guid: 86ab0f82799d03f4688b215311213a06, type: 3}
---- !u!1 &6505288630529347117 stripped
+--- !u!1 &425037487703660298 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 86ab0f82799d03f4688b215311213a06, type: 3}
+  m_CorrespondingSourceObject: {fileID: -3215555783603854218, guid: 86ab0f82799d03f4688b215311213a06, type: 3}
   m_PrefabInstance: {fileID: 6234675522561635196}
   m_PrefabAsset: {fileID: 0}
---- !u!135 &-7184462403230117176
-SphereCollider:
+--- !u!64 &7454718040731167703
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6505288630529347117}
+  m_GameObject: {fileID: 425037487703660298}
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -103,9 +103,15 @@ SphereCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Radius: 1
-  m_Center: {x: 0, y: 0, z: 0}
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 212370497460711607, guid: 86ab0f82799d03f4688b215311213a06, type: 3}
+--- !u!1 &6505288630529347117 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 86ab0f82799d03f4688b215311213a06, type: 3}
+  m_PrefabInstance: {fileID: 6234675522561635196}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &3884535332674583590
 MonoBehaviour:
   m_ObjectHideFlags: 0
