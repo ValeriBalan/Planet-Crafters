@@ -5,8 +5,13 @@ using UnityEngine.SceneManagement;
 public class SceneLoader : MonoBehaviour
 {
     public static SceneLoader Instance;
-    public int loadingSceneIndex = 1;
-    public int firstSceneIndex = 2;
+
+    [Header("Loading Screen Scene Index")]
+    [SerializeField] int loadingSceneIndex = 2;
+
+    [Header("Optional Boot Behavior")]
+    [SerializeField] bool loadOnStart = false;
+    [SerializeField] int startSceneIndex = 5;
 
     int targetSceneIndex;
 
@@ -17,21 +22,18 @@ public class SceneLoader : MonoBehaviour
             Instance = this;
             DontDestroyOnLoad(gameObject);
         }
-        else
-        {
-            Destroy(gameObject); 
-        }
+        else Destroy(gameObject);
     }
 
     void Start()
     {
-        LoadScene(firstSceneIndex);
+        if (loadOnStart) LoadScene(startSceneIndex);
     }
 
     public void LoadScene(int sceneIndex)
     {
         targetSceneIndex = sceneIndex;
-        SceneManager.LoadScene(loadingSceneIndex); 
+        SceneManager.LoadScene(loadingSceneIndex);
     }
 
     public void StartAsyncLoad()
@@ -44,21 +46,11 @@ public class SceneLoader : MonoBehaviour
         AsyncOperation async = SceneManager.LoadSceneAsync(targetSceneIndex);
         async.allowSceneActivation = false;
 
-        while (async.progress < 0.9f)
-        {
-            yield return null;
-        }
+        while (async.progress < 0.9f) yield return null;
 
         if (LoadingSceneController.Instance != null)
-        {
-            LoadingSceneController.Instance.OnSceneReady(() =>
-            {
-                async.allowSceneActivation = true; 
-            });
-        }
+            LoadingSceneController.Instance.OnSceneReady(() => async.allowSceneActivation = true);
         else
-        {
             async.allowSceneActivation = true;
-        }
     }
 }
